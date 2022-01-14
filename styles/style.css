@@ -1,0 +1,238 @@
+html, body {
+    background-color: #000 !important;
+}
+
+.head {
+    background-color: #191914 !important;
+}
+
+.header {
+    height: 100px;
+    padding-top: 37px;
+}
+
+ .logo {
+    font-family: 'BarlowSemiBoldItalic';
+    font-size: 24px;
+    color: #fff;
+    margin-left: 78px;
+    margin-top: -4px;
+ }
+
+ .menu {
+     display: inline-flex;
+
+ }
+
+ .nav {
+     justify-content: center;
+     margin-left: -77px;
+
+ }
+
+ .nav li {
+    list-style-type: none;
+    padding-right: 40px;
+ }
+
+ .nav li a {
+     text-decoration: none;
+     font-family: 'BarlowMedium';
+     font-size: 16px;
+     color: #fff;
+ }
+
+ #bylink {
+     text-decoration: none;
+     color: #fff;
+     margin-top: 2px;
+     padding: 12px 22px;
+     border: 2px solid #fff ;
+     font-size: 16px;
+     margin-left: 120px;
+ }
+
+
+ .slogan {
+    color: #fff;
+    text-align: center;
+    margin-top: 108px;
+
+ }
+
+ .slogan_title {
+    font-family: 'BarlowExtraBoldItalic';
+    font-size: 120px;
+    margin-top: -48px;
+    text-transform: uppercase;
+    line-height: 1.02;
+ }
+
+ .bike_center {
+     margin-top: 73px;
+     margin-left: -11px;
+
+ }
+
+ .plusSeat {
+     margin-top: -731px;
+     margin-left: -461px;
+     font-size: 39px;
+
+ }
+
+ .seatplus {
+    --fa-primary-color: #fff;
+    --fa-secondary-color: #E03F38;
+    --fa-secondary-opacity: 0.6;
+ }
+
+ .plusWheel {
+     margin-top: -95px;
+     margin-left: 34px;
+     font-size: 39px;
+ }
+
+ .wheelplus {
+    --fa-primary-color: #fff;
+    --fa-secondary-color: #E03F38;
+    --fa-secondary-opacity: 0.6;
+
+ }
+
+ .foxSuspension {
+    margin-top: 403px;
+    margin-left: 342px;
+    font-size: 39px;
+ }
+
+ .suspensionplus {
+    --fa-primary-color: #fff;
+    --fa-secondary-color: #E03F38;
+    --fa-secondary-opacity: 0.6;
+ }
+
+.pedals {
+    margin-top: -76px;
+    margin-left: -388px;
+    font-size: 39px;
+}
+
+.pedalsplus {
+    --fa-primary-color: #fff;
+    --fa-secondary-color: #E03F38;
+    --fa-secondary-opacity: 0.6;
+}
+
+.shimano {
+    margin-top: -84px;
+    margin-left: -764px;
+    font-size: 39px;
+}
+
+.gearplus {
+    --fa-primary-color: #fff;
+    --fa-secondary-color: #E03F38;
+    --fa-secondary-opacity: 0.6;
+}
+
+.imgabout {
+    margin-left: 144px;
+}
+
+.secondblock {
+    margin-top: 417px;
+    
+}
+
+.title_aboutbike {
+    font-size: 31px;
+    font-family: 'BarlowSemiBold';
+    color: #FFFFFF;
+    text-transform: uppercase;
+    margin-top: 61px;
+    margin-left: 4px;
+    padding-bottom: 21px;
+}
+
+.text_aboutbike {
+    margin-top: 20px;
+    color: #fff;
+    margin-top: 10px;
+    margin-left: 4px;
+    font-size: 16px;
+    font-family: 'BarlowRegular';
+    margin-bottom: 0px;
+}
+
+.second_about {
+    margin-top: 28px;
+}
+.third_about {
+    margin-top: 21px;
+    padding-bottom: 82px;
+}
+
+.readmore {
+    text-decoration: none;
+    color: #fff;
+    padding: 12px 28px;
+    border: 2px solid #FFFFFF;
+    font-size: 16px;
+    font-family: 'BarlowRegular';
+    margin-left: 4px;
+}
+ 
+.whywe {
+    font-size: 31px;
+    font-family: 'BarlowSemiBold';
+    color: #FFFFFF;
+    text-transform: uppercase;
+    margin-top: 61px;
+    margin-left: 4px;
+    padding-bottom: 15px;
+    text-align: center;
+    z-index: 1;
+}
+
+.ourpluses {
+    color: #fff;
+    margin-top: 10px;
+    margin-left: 2px;
+    font-size: 16px;
+    font-family: 'BarlowRegular';
+    margin-bottom: 0px;
+    text-align: center;
+    z-index: 1;
+}
+
+.infoblock {
+    margin-top: 243px;
+    margin-left: -3px;
+    z-index: 1;
+}
+
+.second_staff_block {
+    padding-top: 114px;
+    padding-left: 69px;
+
+}
+
+.staff_ico {
+    width: 65px;
+    height: 65px;
+    margin-left: 103px;
+    margin-bottom: 30px;
+}
+
+.title_of_midblock {
+    color: #fff;
+    text-transform: uppercase;
+    text-align: center;
+
+}
+
+.text_of_midblock {
+    color: #fff;
+    text-align: center;
+}
